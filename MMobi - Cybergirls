@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+	
+		<title>
+			NYU Cybergirls Security Blog - Matthew Mobijohn
+		</title>
+		<link rel="stylesheet" href="styles.css">
+
+	</head>
+
+<body>
+
+<table width=100% align=center>
+
+<tr style="background-color:white" style="color:black">
+
+	<th width=40%> <img src="NYUtandonlogo.jpg"> </th>
+	<th width=40% > <font size="20" color="indigo" face=copperplate> Cybergirls Security Blog </font>
+	<br> 	
+	<form action = "pen.html">
+	<br>	
+	Search:	
+	<input type="text" name="search">
+	<img src="search.png" width=20px height=20px>
+	</form>
+	</th>
+	<th width=20%> <img src="cs4cs.png"> </th>
+
+</tr>
+
+</table>
+
+
+
+<table width=100% align=center height=80%>
+
+<tr style="background-color:white" style="color:black">
+
+	<th width=20%> <a href=""> Home </a> </th>
+	<th width=20%> <a href=""> About Me </a> </th>
+	<th width=20%> <a href=""> About Cybergirls </a> </th>
+	<th width=20%> <a href=""> Schedule </a> </th>
+	<th width=20%> <a href=""> Testimony </a> </th>
+
+</tr>
+
+</table>
+
+</body>
+
+
+</html>
